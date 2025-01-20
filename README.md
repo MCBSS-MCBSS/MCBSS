@@ -1,7 +1,7 @@
 # Introduction
 The source code and models for our paper **Mitigating Class Bias in Sample Selection for Imbalanced Noisy Data**
 # Framework
-![Our Framework]([https://github.com/MCBSS-MCBSS/MCBSS/blob/main/mainfig.png](https://github.com/MCBSS-MCBSS/MCBSS/blob/main/mainfig.pdf))
+![Our Framework]([https://github.com/MCBSS-MCBSS/MCBSS/blob/main/mainfig.png])
 # Installation
 After creating a virtual environment of python 3.7
 # How to use
