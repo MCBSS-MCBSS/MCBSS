@@ -13,4 +13,4 @@ The code is currently tested only on GPU.
     *  Prepare data
     *  Modify GPU device in the corresponding train script `xxx.sh` in `scripts` folder
     *  Activate virtual environment (e.g. conda) and then run    
-      `bash scripts/xxx.sh` 
+      `bash xxx.sh` 
