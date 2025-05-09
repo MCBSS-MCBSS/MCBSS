@@ -14,3 +14,6 @@ The code is currently tested only on GPU.
     *  Modify GPU device in the corresponding train script `xxx.sh` in `scripts` folder
     *  Activate virtual environment (e.g. conda) and then run    
       `bash xxx.sh` 
+
+# Acknowledgements
+This project is based on the work presented in the paper **"Learning with Imbalanced Noisy Data by Preventing Bias in Sample Selection"**. Please refer to the original paper for a deeper understanding of the methodology and experiments.
